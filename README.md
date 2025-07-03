@@ -192,7 +192,7 @@ Exiting application.
 
 Here is a look at the employees table in database.
 
-![employees table in database](assets/screenshot.png)
+![employees table in database](assets/databaseSample.png)
 
 ## Project Structure
 
